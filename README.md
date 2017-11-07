@@ -14,3 +14,15 @@ TBD, (strong)
 ## Use of External Packages
 
 The `go-commons` libraries will use only Go's standard library to avoid any external dependencies.  This pragmatic choice allows us to better prevent breakage in the libraries we create.
+
+
+## Code Standards
+
+
+### Tests
+
+### Go Standards
+
+
+## Code Review Process
+
