@@ -26,3 +26,5 @@ The `go-commons` libraries will use only Go's standard library to avoid any exte
 
 ## Code Review Process
 
+# Governance
+See the [wiki](https://github.com/go-commons/commons/wiki/Governance)
